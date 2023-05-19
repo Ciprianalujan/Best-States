@@ -11,12 +11,14 @@ In this project analysis, I have set out to find the best states within the Unit
 
 
 ## Note
-The lower the score of each category, the more this factor was favored between states
+The lower the score of each category, the more this factor was favored between states.
+
 The higher the score, the more residents were not pleased with this factor.
 
 ## Sources
 World Population Review
 https://worldpopulationreview.com/state-rankings/states-with-lowest-cost-of-living
+
 U.S. News
 https://www.usnews.com/news/best-states/rankings-index
 
