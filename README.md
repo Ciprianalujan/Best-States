@@ -10,7 +10,7 @@ In this project analysis, I have set out to find the best states within the Unit
 ### Natural Environment - 15.0%
 
 
-###Note
+## Note
 The lower the score of each category, the more this factor was favored between states
 The higher the score, the more residents were not pleased with this factor.
 
